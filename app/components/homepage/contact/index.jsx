@@ -23,20 +23,27 @@ function ContactSection() {
 
         <div className="lg:w-3/4 ">
           <div className="flex flex-col gap-5 lg:gap-9">
-            <p className="text-sm md:text-xl flex items-center gap-3">
+            <a
+              href="mailto:meetmakwana76@gmail.com"
+              className="text-sm md:text-xl flex items-center gap-3"
+            >
               <MdAlternateEmail
                 className="bg-[#8b98a5] p-2 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={36}
               />
               <span>{personalData.email}</span>
-            </p>
-            <p className="text-sm md:text-xl flex items-center gap-3">
+            </a>
+            <a
+              href="https://wa.me/9574391942?text=Hello!"
+              target="_blank"
+              className="text-sm md:text-xl flex items-center gap-3"
+            >
               <IoMdCall
                 className="bg-[#8b98a5] p-2 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
                 size={36}
               />
               <span>{personalData.phone}</span>
-            </p>
+            </a>
             <p className="text-sm md:text-xl flex items-center gap-3">
               <CiLocationOn
                 className="bg-[#8b98a5] p-2 rounded-full hover:bg-[#16f2b3] hover:scale-110 transition-all duration-300 text-gray-800 cursor-pointer"
