@@ -1,13 +1,17 @@
 export const personalData = {
   name: "MITESH MAKWANA",
   designation: "Software Developer",
-  description:
-    "Hello, I'm Mitesh Makwana, a Front End Developer with 3 years of hands-on experience crafting and enhancing web applications. Proficient in HTML, CSS, and JavaScript, I specialize in leveraging cutting-edge frameworks like Vue JS, Angular JS, Next.js, Nest JS and libraries like React and also create mobile Applications in React-native to create seamless user experiences. With a keen eye for detail and a passion for clean, efficient code, I strive to deliver innovative solutions that exceed expectations",
+  description: `Experienced web developer with over 3 years of hands-on expertise in advanced web development
+technologies, with a strong focus on building scalable, secure, and high-performance applications. Proficient in
+using modern programming languages and frameworks to deliver optimized user experiences and system
+efficiency. Skilled in project management tools such as Jira, Notion, and Asana, and well-versed in version
+control using Git. Also have working knowledge of AWS services and NGINX server configuration for deployment
+and scalability.`,
   email: "meetmakwana76@gmail.com",
   phone: "+91 9574391942",
   address: "Sarthana Jakatnaka, Surat",
   github: "https://github.com/mitesh2632",
   linkedIn: "https://www.linkedin.com/in/mitesh-makwana-a83071190/",
   resume:
-    "https://drive.google.com/file/d/1fCaWk12wFNlqtZm9MNHSrIFTWedftB1N/view?usp=sharing",
+    "https://drive.google.com/file/d/1q3iUqEZ31Oh4cjpuQf0VQ0lYzuUihkpA/view?usp=sharing",
 };
