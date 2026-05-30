@@ -5,6 +5,17 @@ import travel from "/public/image/travel.jpg";
 
 export const projectsData = [
   {
+    id: 7,
+    name: "CareBoarding: Clinical",
+    description:
+      "• Developed and maintained scalable full-stack web applications using React.js, TypeScript, NestJS, PostgreSQL, and Prisma while following Hexagonal Architecture principles. Collaborated with cross-functional teams to deliver high-quality software solutions, participate in code reviews, troubleshoot production issues, and ensure adherence to development best practices. Designed reusable components, integrated third-party services and APIs, optimized application performance, and contributed to the complete software development lifecycle in Agile environments.",
+    tools: ["ReactJs", "TypeScript", "NestJS", "PostgreSQL", "Prisma"],
+    role: "Fullstack Developer",
+    code: "",
+    demo: "http://clinical.careboarding.com/",
+    image: "",
+  },
+  {
     id: 2,
     name: "Eternify AI",
     description:
@@ -54,7 +65,7 @@ export const projectsData = [
     description:
       "This premium booking platform offers users the ability to rent luxury private jets across a variety of global destinations. Users can browse an extensive selection of jets by location, with each listing showcasing detailed specifications, high-quality photos, and key features. The platform allows users to inquire about availability and request bookings through dedicated contact forms for personalized assistance. Popular travel destinations are highlighted for both jet experiences. The service is divided into two specialized platforms: PorterJets for private jet bookings.",
     tools: ["NextJS", "Fireabse", "Tailwind CSS", "NodeJs"],
-    role: "Frontend Developer (Under Maintanance) + Team Leader",
+    role: "Frontend Developer + Team Leader",
     code: "porterjets.com",
     demo: "porterjets.com",
     image: crefin,

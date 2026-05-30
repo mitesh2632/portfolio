@@ -128,6 +128,8 @@ function HeroSection() {
                 <span className="text-amber-300">MUI</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Bootstrap</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">JMeter</span>
                 <span className="text-gray-400">{"']"}</span>
               </div>
               <div>
@@ -178,7 +180,7 @@ function HeroSection() {
                 <span className="ml-12 lg:ml-24 text-cyan-400">this.</span>
                 <span className="mr-2 text-white">skills.length</span>
                 <span className="mr-2 text-amber-300">&gt;=</span>
-                <span className="text-orange-400">5</span>
+                <span className="text-orange-400">10</span>
               </div>
               <div>
                 <span className="ml-8 lg:ml-16 mr-2 text-gray-400">{`);`}</span>

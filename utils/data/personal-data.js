@@ -1,7 +1,7 @@
 export const personalData = {
   name: "MITESH MAKWANA",
   designation: "Software Developer",
-  description: `Experienced web developer with over 3 years of hands-on expertise in advanced web development
+  description: `Experienced web developer with over 4.5 years of hands-on expertise in advanced web development
 technologies, with a strong focus on building scalable, secure, and high-performance applications. Proficient in
 using modern programming languages and frameworks to deliver optimized user experiences and system
 efficiency. Skilled in project management tools such as Jira, Notion, and Asana, and well-versed in version
@@ -13,5 +13,5 @@ and scalability.`,
   github: "https://github.com/mitesh2632",
   linkedIn: "https://www.linkedin.com/in/mitesh-makwana-a83071190/",
   resume:
-    "https://drive.google.com/file/d/1q3iUqEZ31Oh4cjpuQf0VQ0lYzuUihkpA/view?usp=sharing",
+    "https://drive.google.com/file/d/11Lis5aBFJ42B3OuhV-7xMUWbONXMpQDA/view?usp=sharing",
 };
